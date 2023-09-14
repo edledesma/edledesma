@@ -70,4 +70,13 @@ This script implements a simple slot machine game where players can deposit an i
 
 This is a web project for a calculator application built using javascript. The calculator allows users to perform basic arithmetic calculations.  The project uses Bootstrap for styling and includes JavaScript code for the calculator's functionality, making it an interactive and responsive web application for performing mathematical calculations.
 
+---
+ 
+### 💵 [Currency Converter](https://edledesma.github.io/JavaScript/currency.html)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+
+The web page is a currency conversion tool that fetches real-time exchange rates for the "Official Dollar" and "Blue Dollar" from an external API in Argentinian pesos. It allows users to input either a dollar or peso amount and calculates the equivalent amount in the other currency based on the retrieved exchange rates. The layout is organized using Bootstrap cards within a grid. Users can easily convert between dollars and pesos, making it a practical resource for currency exchange calculations.
+
 ___
+
