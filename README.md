@@ -4,7 +4,7 @@
 
 # 💻 Tech Stack:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=oracle&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
@@ -44,7 +44,7 @@ ___
 
 ### 🖼️ [ImgConverter](https://github.com/edledesma/Python-OOP/tree/main/Projects/Img%20Converter)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Tkinter](https://img.shields.io/badge/Tkinter-c39600?style=for-the-badge&logo=python&logoColor=#ffd343) 
 
 A **simple** graphical user interface application that utilizes the tkinter library to convert images into text. Users can open image files (PNG, JPG, JPEG, GIF, BMP, TIFF), and the application employs the pytesseract library, which is a wrapper for the Tesseract OCR engine, to extract text content from the selected image. The extracted text is then saved to a text file named "output.txt" within the same directory as the script. This application provides an **easy-to-use** interface for converting image-based text into machine-readable text files, facilitating tasks such as digitizing printed documents or extracting text from images for further analysis.
 Requires [Tesseract OCR](https://github.com/tesseract-ocr/tesseract).
@@ -57,7 +57,7 @@ ___
 ### 🎰 [PySlot](https://github.com/edledesma/Python-OOP/tree/main/Projects/PySlot)
 This script implements a simple slot machine game where players can deposit an initial amount, select the number of lines to bet on, and place bets. The slot machine displays a grid of symbols, and if matching symbols align on the selected lines, players win prizes based on predefined symbol values. The game continues until the player chooses to quit, and their final balance is displayed. The script incorporates features like random symbol generation, betting validation, and winnings calculation, offering a **basic** but functional slot machine simulation.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 	📚Libraries:	
 	random
