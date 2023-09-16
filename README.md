@@ -55,9 +55,11 @@ Requires [Tesseract OCR](https://github.com/tesseract-ocr/tesseract).
 ___
 
 ### 🎰 [PySlot](https://github.com/edledesma/Python-OOP/tree/main/Projects/PySlot)
-This script implements a simple slot machine game where players can deposit an initial amount, select the number of lines to bet on, and place bets. The slot machine displays a grid of symbols, and if matching symbols align on the selected lines, players win prizes based on predefined symbol values. The game continues until the player chooses to quit, and their final balance is displayed. The script incorporates features like random symbol generation, betting validation, and winnings calculation, offering a **basic** but functional slot machine simulation.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+This script implements a simple slot machine game where players can deposit an initial amount, select the number of lines to bet on, and place bets. The slot machine displays a grid of symbols, and if matching symbols align on the selected lines, players win prizes based on predefined symbol values. The game continues until the player chooses to quit, and their final balance is displayed. The script incorporates features like random symbol generation, betting validation, and winnings calculation, offering a **basic** but functional slot machine simulation.
+
 
 	📚Libraries:	
 	random
