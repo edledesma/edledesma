@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://github.com/edledesma/personalsite/blob/main/img/logo.webp" width="50%">
+</p>
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edledesma) [![Website](https://img.shields.io/badge/Website-%f5be4b.svg?logo=about.me&logoColor=white)](https://www.edledesma.com.ar) 
