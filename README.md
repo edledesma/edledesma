@@ -99,7 +99,7 @@ The website "Refugio Huellitas de Amor" is designed in Spanish and focuses on pr
 
 </div>
 
-Graphical user interface application that utilizes the tkinter library to convert images into text. Users can open image files (PNG, JPG, JPEG, GIF, BMP, TIFF), and the application employs the pytesseract library, which is a wrapper for the Tesseract OCR engine, to extract text content from the selected image. The extracted text is displayed on screen and can be saved as txt file is the user chooses to do so. This application provides an **easy-to-use** interface for converting image-based text into text files, facilitating tasks such as digitizing printed documents or extracting text from images for further analysis.
+Graphical user interface application that utilizes the tkinter library to convert images into text. Users can open image files (PNG, JPG, JPEG, GIF, BMP, TIFF). The application employs the pytesseract library, which is a wrapper for the Tesseract OCR engine, to extract text content from the selected image. The extracted text is displayed on screen and can be saved as txt file. This application provides an **easy-to-use** interface for converting image-based text into text files, facilitating tasks such as digitizing printed documents or extracting text from images for further analysis.
 Requires [Tesseract OCR](https://github.com/tesseract-ocr/tesseract).
 
 <div align="center">
