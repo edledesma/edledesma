@@ -6,7 +6,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edledesma) [![Website](https://img.shields.io/badge/Website-%f5be4b.svg?logo=about.me&logoColor=white)](https://www.edledesma.com.ar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edledesma) [![Website](https://img.shields.io/badge/Website-%f5be4b.svg?style=for-the-badge&logo=about.me&logoColor=white)](https://www.edledesma.com.ar) 
 
 # 💻 Tech Stack:
 
