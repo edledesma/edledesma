@@ -61,92 +61,17 @@
 
 ## 📋 Projects:
 
-<div align="center">
-
-### 🌐 [Personal website](https://www.edledesma.com.ar/)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-
-</div>
-
-Single page professional **portfolio** showcasing my expertise as a programmer, developer, and educator. Features a clean and modern design, with sections highlighting my background, skills and services. The website is presented in three languages, English, Spanish and Portuguese.
-
-<div align="center">
-	<img src="https://github.com/edledesma/personalsite/blob/main/img/SEPARATOR.svg" width="50%">
-	<br>
-</div>
-
-<div align="center">
-	
-### 🐾 [Animal shelter website](https://edledesma.github.io/TPO-CodoACodo/index.html)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-</div>
-
-The website "Refugio Huellitas de Amor" is designed in Spanish and focuses on promoting an animal shelter. The page follows a basic design and aims to raise awareness about animal adoption and encourage contributions to the shelter. It was created as my team's final project for a Fullstack Python Certification. As such, it employes a self made **API** and it's capable of carrying on out a **CRUD** operations.
-
-<div align="center">
-	<img src="https://github.com/edledesma/personalsite/blob/main/img/SEPARATOR.svg" width="50%">
-	<br>
-</div>
-
-<div align="center">
-
-### 🖼️ [ImgConverter](https://github.com/edledesma/Python-OOP/tree/main/Projects/Img%20Converter)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Tkinter](https://img.shields.io/badge/Tkinter-c39600?style=for-the-badge&logo=python&logoColor=#ffd343) 
-
-</div>
-
-Graphical user interface application that utilizes the tkinter library to convert images into text. Users can open image files (PNG, JPG, JPEG, GIF, BMP, TIFF). The application employs the pytesseract library, which is a wrapper for the Tesseract OCR engine, to extract text content from the selected image. The extracted text is displayed on screen and can be saved as txt file. This application provides an **easy-to-use** interface for converting image-based text into text files, facilitating tasks such as digitizing printed documents or extracting text from images for further analysis.
-Requires [Tesseract OCR](https://github.com/tesseract-ocr/tesseract).
-
-<div align="center">
-	<img src="https://github.com/edledesma/personalsite/blob/main/img/SEPARATOR.svg" width="50%">
-	<br>
-</div>
+| **Project** | **Description** | **Tech**|
+| --- | --- | --- |
+| 🌐 [Personal website](https://www.edledesma.com.ar/) | Single page professional portfolio showcasing expertise in programming, development, and education. Multilingual (English, Spanish, Portuguese) with clean, modern design. | <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="24"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="24" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="24" /></div> |
+| 🐾 [Animal shelter website](https://edledesma.github.io/TPO-CodoACodo/index.html) | Designed in Spanish, promotes animal adoption. Final project for Fullstack Python Certification. Utilizes self-made API and supports CRUD operations. | <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="24"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="24"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="24"/></div> |
+| 🖼️ [ImgConverter](https://github.com/edledesma/Python-OOP/tree/main/Projects/Img%20Converter) | Graphical interface application using tkinter library to convert images to text files. Employs pytesseract library for OCR. | <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24"/></div> |
+| 🎰 [PySlot](https://github.com/edledesma/Python-OOP/tree/main/Projects/PySlot) | Simple slot machine terminal game implemented in Python. Players can bet on lines, and matching symbols yield prizes. Basic but functional slot machine simulation. | <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24"/></div> |
+| 🧮 [JS Calculator](https://edledesma.github.io/JavaScript/calculator.html) | Web-based calculator application built with JavaScript. Allows basic arithmetic calculations, styled with Bootstrap for responsiveness. | <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="24"/></div> |
+| 💵 [Currency Converter](https://edledesma.github.io/JavaScript/currency.html) | Web tool fetching real-time exchange rates for Argentinian pesos. Converts between "Official Dollar" and "Blue Dollar". Utilizes Bootstrap for layout. | <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="24"/></div> |
 
 
-<div align="center">
 
-### 🎰 [PySlot](https://github.com/edledesma/Python-OOP/tree/main/Projects/PySlot)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-</div>
-
-This script implements a simple slot machine game where players can deposit an initial amount, select the number of lines to bet on, and place bets. The slot machine displays a grid of symbols, and if matching symbols align on the selected lines, players win prizes based on predefined symbol values. The game continues until the player chooses to quit, and their final balance is displayed. The script incorporates features like random symbol generation, betting validation, and winnings calculation, offering a **basic** but functional slot machine simulation.
-
-<div align="center">
-	<img src="https://github.com/edledesma/personalsite/blob/main/img/SEPARATOR.svg" width="50%">
-	<br>
-</div>
-
-<div align="center">
- 
-### 🧮 [JS Calculator](https://edledesma.github.io/JavaScript/calculator.html)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-
-</div>
-
-This is a web project for a calculator application built using javascript. The calculator allows users to perform basic arithmetic calculations.  The project uses Bootstrap for styling and includes JavaScript code for the calculator's functionality, making it an interactive and responsive web application for performing mathematical calculations.
-
-<div align="center">
-	<img src="https://github.com/edledesma/personalsite/blob/main/img/SEPARATOR.svg" width="50%">
-	<br>
-</div>
-
-<div align="center">
- 
-### 💵 [Currency Converter](https://edledesma.github.io/JavaScript/currency.html)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-
-</div>
-
-The web page is a currency conversion tool that fetches real-time exchange rates for the "Official Dollar" and "Blue Dollar" from an external API in Argentinian pesos. It allows users to input either a dollar or peso amount and calculates the equivalent amount in the other currency based on the retrieved exchange rates. The layout is organized using Bootstrap cards within a grid. Users can easily convert between dollars and pesos, making it a practical resource for currency exchange calculations.
 
 
 
