@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/edledesma/personalsite/blob/main/img/logo.webp" width="50%">
+<img src="https://github.com/edledesma/personalsite/blob/main/img/LOGOBG.webp">
 </div>
 
 
