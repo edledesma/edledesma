@@ -61,7 +61,7 @@
 |🚗| [PyCarBase](https://github.com/edledesma/Python/tree/main/PyCarBase) | GUI Application that employs a SQLite database to keep track of vehicles and it's properties. Capable of CRUD operations with a database persitance.| <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="24" /></div> |
 |🐾| [Animal shelter website](https://edledesma.github.io/TPO-CodoACodo/index.html) | Designed in Spanish, promotes animal adoption. Final project for Fullstack Python Certification. Utilizes self-made API and supports CRUD operations. | <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="24"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="24"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="24"/></div> |
 
-## 📋 Mini-projects:
+#### 📋 Mini-projects:
 
 || **Project** | **Description** | **Tech**|
 |---| --- | --- | --- |
